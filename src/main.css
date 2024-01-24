@@ -11982,6 +11982,10 @@ body {
   box-sizing: border-box;
 }
 
+.logo {
+  width: 400px;
+}
+
 .nav-link:hover {
   color: #0d6efd;
 }
